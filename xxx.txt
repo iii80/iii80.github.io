@@ -1,16 +1,16 @@
 HD,P2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
-HAPPY幸福,P2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts｜mitv://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
-惊艳台HD,P2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts｜mitv://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
-彩虹电影,P2p://51.79.41.138:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts｜mitv://51.79.41.138:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts
-彩虹e台,P2p://51.79.41.138:18912/5c18f8ef000d41c9c073eec574332890.ts.ts｜mitv://51.79.41.138:18912/5c18f8ef000d41c9c073eec574332890.ts.ts
-彩虹k台,P2p://51.79.41.138:18912/5c18f8f300074bdfc073fcde6e553705.ts.ts｜mitv://51.79.41.138:18912/5c18f8f300074bdfc073fcde6e553705.ts.ts
-HOT星颜,P2p://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts｜mitv://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts 
-松视1台,P2p://51.79.41.138:18912/5c18f8fb00064883c0741bdf109f114a.ts.ts｜mitv://51.79.41.138:18912/5c18f8fb00064883c0741bdf109f114a.ts.ts｜vjms://23.237.33.155:8500:3502/live/cid=262&delay=400&httpbuf=400&memory=50|http://tw8058.sinodig.com?key=RDtfFOAvgjb5mIurJg08e
-松视2台,P2p://51.79.41.138:18912/5c18f8f7000d865dc0740e1426765941.ts.ts｜mitv://51.79.41.138:18912/5c18f8f7000d865dc0740e1426765941.ts.ts｜vjms://23.237.33.155:8500:3502/live/cid=267&delay=400&httpbuf=400&memory=50|http://tw8058.sinodig.com?key=c6Qq6gGg7oG1rAP20bxBe
-松视3台,P2p://51.79.41.138:18912/5c18f9020004cea3c07436da29307240.ts.ts｜mitv://51.79.41.138:18912/5c18f9020004cea3c07436da29307240.ts.ts｜vjms://23.237.33.155:8500:3502/live/cid=268&delay=400&httpbuf=400&memory=50|http://tw8058.sinodig.com?key=ADZie6PocQzvhxdjhiWRe
-香蕉台,P2p://51.79.41.138:18912/5c18f9090004f8a0c07452412e4e369f.ts.ts｜mitv://51.79.41.138:18912/5c18f9090004f8a0c07452412e4e369f.ts.ts
-潘多拉粉红,P2p://51.79.41.138:18912/5c18f90c000e8229c074606a15084f35.ts.ts｜mitv://51.79.41.138:18912/5c18f90c000e8229c074606a15084f35.ts.ts
-潘多拉完美,P2p://51.79.41.138:18912/5c18f905000c08fbc07444661e2e685e.ts.ts｜mitv://51.79.41.138:18912/5c18f905000c08fbc07444661e2e685e.ts.ts
+HAPPY幸福,P2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
+惊艳台HD,P2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
+彩虹电影,P2p://51.79.41.138:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts
+彩虹e台,P2p://51.79.41.138:18912/5c18f8ef000d41c9c073eec574332890.ts.ts
+彩虹k台,P2p://51.79.41.138:18912/5c18f8f300074bdfc073fcde6e553705.ts.ts
+HOT星颜,P2p://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
+松视1台,P2p://51.79.41.138:18912/5c18f8fb00064883c0741bdf109f114a.ts.ts
+松视2台,P2p://51.79.41.138:18912/5c18f8f7000d865dc0740e1426765941.ts.ts
+松视3台,P2p://51.79.41.138:18912/5c18f9020004cea3c07436da29307240.ts.ts
+香蕉台,P2p://51.79.41.138:18912/5c18f9090004f8a0c07452412e4e369f.ts.ts
+潘多拉粉红,P2p://51.79.41.138:18912/5c18f90c000e8229c074606a15084f35.ts.ts
+潘多拉完美,P2p://51.79.41.138:18912/5c18f905000c08fbc07444661e2e685e.ts.ts
 一本道,p9p://192.95.32.107:9906/59222cba000a1df94e03e6bf4ac746e5&link=盗链死全家
 二本道,p9p://192.95.32.107:9906/59222cab00007c3e4e03a9b06f6e3544&link=盗链死全家
 三本道,p9p://192.95.32.107:9906/59222cdc000262844e04699514602c9f&link=盗链死全家
@@ -351,7 +351,6 @@ BJ事件,https://135zyv6.xw0371.com/2018/12/04/cGSO4PDXUwxhdanS/playlist.m3u8
 大学的学生,https://135zyv6.xw0371.com/2018/12/02/fwKwbuF06g5uCCK5/playlist.m3u8 
 诱惑,https://135zyv6.xw0371.com/2018/12/01/U4jruSEvg4Mh9hT9/playlist.m3u8 
 维珍真正的性感导师,https://135zyv6.xw0371.com/2018/11/2ㅤ ㅤ ㅤ:
-xw0371.com/2018/12/24/3XC78445MFx8bCnu/playlist.m3u8 
 无尽的排放性丑闻第2集 - 有抱负的模特性训练,https://135zyv6.xw0371.com/2018/12/21/xbDnSM62wfuUGtpi/playlist.m3u8 
 被遗弃的国家广播,https://135zyv6.xw0371.com/2018/12/20/UglLxoIb0On3IxNN/playlist.m3u8 
 隔壁的女孩2,https://135zyv6.xw0371.com/2018/12/23/w9pYOpMeVWO1WSB9/playlist.m3u8 
@@ -557,7 +556,6 @@ E10,https://135zyv6.xw0371.com/2019/01/21/xFnRoOFIBczOsBx3/playlist.m3u8
 登山的味道,https://135zyv6.xw0371.com/2019/01/15/t8txFVfSOqoOkFgn/playlist.m3u8 
 被污染的过去,https://135zyv6.xw0371.com/2019/01/12/daf2s1J3GWmymBV5/playlist.m3u8 
 爸爸朋友2,https://135zyv6.xw0371.com/2019/01/11/DVuJB785VldAjㅤ ㅤ ㅤ:
-://135zyv6.xw0371.com/2019/02/01/ADtUYIInlwZt1AWI/playlist.m3u8 
 现场导演和淫乱的玩笑,https://135zyv6.xw0371.com/2019/01/31/ctz6lUNmWMcRMWGm/playlist.m3u8 
 你是我命运的亚当,https://135zyv6.xw0371.com/2019/02/03/pmhVBeJ0KQqHBpKZ/playlist.m3u8 
 插入治疗专业医院5集-一批证明患者的小护士,https://135zyv6.xw0371.com/2019/02/01/oMsuCNGMZrNrwOQ8/playlist.m3u8 
